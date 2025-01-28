@@ -82,7 +82,6 @@ ride-hailing-pricing-analysis/
 |   |-- processed_ride_hailing_data.csv
 |
 |-- scripts/
-|   |-- data_cleaning.py
 |   |-- exploratory_analysis.py
 |
 |-- results/
